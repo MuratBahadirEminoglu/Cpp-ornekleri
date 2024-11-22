@@ -1,0 +1,6 @@
+﻿  sayıtahminoyunu.cpp
+C:\Users\murat\Desktop\c++ örnek büyük projeler\sayıtahminoyunu\sayıtahminoyunu\sayıtahminoyunu.cpp(13,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\murat\Desktop\c++ örnek büyük projeler\sayıtahminoyunu\sayıtahminoyunu\sayıtahminoyunu.cpp(48,13): error C2562: 'tahmin': 'void' işlev değer döndürüyor
+  C:\Users\murat\Desktop\c++ örnek büyük projeler\sayıtahminoyunu\sayıtahminoyunu\sayıtahminoyunu.cpp(20,6):
+  'tahmin' bildirimine bakın
+  

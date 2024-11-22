@@ -1,0 +1,3 @@
+﻿  ekokalanprogram.cpp
+C:\Users\murat\Desktop\c++ örnek büyük projeler\ekokalanprogram\ekokalanprogram\ekokalanprogram.cpp(22,41): warning C4554: '|': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+  ekokalanprogram.vcxproj -> C:\Users\murat\Desktop\c++ örnek büyük projeler\ekokalanprogram\x64\Debug\ekokalanprogram.exe

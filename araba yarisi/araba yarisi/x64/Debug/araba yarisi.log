@@ -1,0 +1,10 @@
+﻿  araba yarisi.cpp
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(58,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(66,24): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(109,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(125,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(150,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(154,7): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(155,14): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(214,10): error C3861: 'getline': tanımlayıcı bulunamadı
+C:\Users\murat\Desktop\c++ örnek büyük projeler\araba yarisi\araba yarisi\araba yarisi.cpp(237,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
